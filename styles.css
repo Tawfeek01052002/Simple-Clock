@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: #151719;
+    font-family:'Times New Roman', Times, serif ;   
+}
+
+h1{
+    color:white;
+    padding:2px;
+}
+
+p{
+    color: white;
+    font-size: 2.5rem;
+    color: blue;
+    /* margin-top: auto;
+    margin-bottom: auto; */
+    padding: 3px;
+}
+
+.division1{
+    margin-top: 100px;
+    margin-bottom: auto;
+    padding: 3px;
+    background-color: lightblue;
+    border: 5px solid blue;
+    border-radius: 10px;
+    
+}
